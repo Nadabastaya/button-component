@@ -33,7 +33,7 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![Captura](https://github.com/Nadabastaya/button-component/assets/12211861/b7121349-4df3-4060-a58e-77e94d182ff5)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
