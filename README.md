@@ -35,13 +35,6 @@
 
 ![Captura](https://github.com/Nadabastaya/button-component/assets/12211861/b7121349-4df3-4060-a58e-77e94d182ff5)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
-
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
